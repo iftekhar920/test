@@ -1,1 +1,1 @@
-Test for gitt
+<?php echo "HELLO"; ?>
